@@ -1,8 +1,8 @@
 public class EjemplosString {
     public static void main(String[] args) {
     //crear variable string
-    String nombre = "Juanma";
-    String apellido = "Herrera";
+    String nombre = "adios";
+    String apellido = "mundo";
     float edad = 18;
     //imprimir el valor de la variable
     //System.out.println("Hola " + s);
